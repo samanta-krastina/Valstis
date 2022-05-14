@@ -31,7 +31,8 @@ namespace projekts_1
                 "1., 2., jautājums: viegli" + Environment.NewLine+ Environment.NewLine +
                 "3., 4., 5., 6. jautājums: vidēji grūti" + Environment.NewLine+ Environment.NewLine+
                 "7., 8. jautājums: grūti" + Environment.NewLine+ Environment.NewLine+
-                "9., 10. jautājums: ļoti grūti",
+                "9., 10. jautājums: ļoti grūti" + Environment.NewLine + Environment.NewLine + Environment.NewLine
+                + "Izveidoja:" + Environment.NewLine + "Samanta Krastiņa 11.PROG  05.2022",
 
                 "Tests", MessageBoxButtons.OK, MessageBoxIcon.Question);
 

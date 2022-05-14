@@ -19,6 +19,7 @@ namespace projekts_1
 
         private void Form5_Load(object sender, EventArgs e)
         {
+            radio1.Checked = false;
             labCheck.Text = "";
             butNakamais.Visible = false;
             butIesniegt.Left = butNakamais.Left;

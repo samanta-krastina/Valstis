@@ -33,8 +33,9 @@ namespace projekts_1
 
         private void butIesniegt_Click(object sender, EventArgs e)
         {
-            string valsts = "Polija";
-            if (txtValsts.Text == valsts)
+            string valsts = txtValsts.Text;
+            string parbaude = valsts.ToLower();
+            if (parbaude == "polija")
             {
                 Form1.punkti++;
                 labCheck.Text = "Pareizi!";

@@ -85,7 +85,6 @@
             this.radio1.Name = "radio1";
             this.radio1.Size = new System.Drawing.Size(79, 23);
             this.radio1.TabIndex = 3;
-            this.radio1.TabStop = true;
             this.radio1.Text = "Igaunija";
             this.radio1.UseVisualStyleBackColor = true;
             // 
@@ -108,7 +107,6 @@
             this.radio2.Name = "radio2";
             this.radio2.Size = new System.Drawing.Size(74, 23);
             this.radio2.TabIndex = 5;
-            this.radio2.TabStop = true;
             this.radio2.Text = "Lietuva";
             this.radio2.UseVisualStyleBackColor = true;
             // 
@@ -121,7 +119,6 @@
             this.radio3.Name = "radio3";
             this.radio3.Size = new System.Drawing.Size(66, 23);
             this.radio3.TabIndex = 6;
-            this.radio3.TabStop = true;
             this.radio3.Text = "Vācija";
             this.radio3.UseVisualStyleBackColor = true;
             // 
@@ -134,7 +131,6 @@
             this.radio4.Name = "radio4";
             this.radio4.Size = new System.Drawing.Size(71, 23);
             this.radio4.TabIndex = 7;
-            this.radio4.TabStop = true;
             this.radio4.Text = "Latvija";
             this.radio4.UseVisualStyleBackColor = true;
             // 
